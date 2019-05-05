@@ -41,7 +41,7 @@ public class DailyFragment extends Fragment {
     protected String[] mDataset;
     protected int[] mDataset2;
 
-    int [] icon = {R.drawable.ic_profile, R.drawable.ic_profile,R.drawable.ic_profile,R.drawable.ic_profile};
+    int [] icon = {R.drawable.ic_books, R.drawable.ic_basket,R.drawable.ic_pray,R.drawable.ic_bed};
     String [] Nama = {"Learn","Playing","Praying","Sleeping"};
 
 

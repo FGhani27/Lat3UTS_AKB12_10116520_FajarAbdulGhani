@@ -49,7 +49,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/txt_daily2"
-                    android:text="@string/daily"
+                    android:text="@string/music"
                     android:textSize="18sp"
                     android:textColor="@color/orange1"
                     android:layout_marginRight="16dp"
